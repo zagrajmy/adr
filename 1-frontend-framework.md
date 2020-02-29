@@ -24,6 +24,8 @@ We didn't consider JavaScript, because Piotrek, the main person who'll write the
 
 ### Svelte and Sapper
 
+![](./assets/2020-02-29-22-27-32.png)
+
 #### Pros
 
 - Sapper is pretty cool, easy to write and generates super performant apps. Compilers are the new frameworks, yeah.
@@ -33,6 +35,8 @@ We didn't consider JavaScript, because Piotrek, the main person who'll write the
 - Svelte is still pretty fresh and and the TypeScript support is immature
 
 ### React and Next
+
+![](./assets/2020-02-29-22-26-50.png)
 
 #### Pros
 
