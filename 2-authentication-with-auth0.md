@@ -1,4 +1,4 @@
-# 4. Authentication with Auth0
+# 2. Authentication with Auth0
 
 ## Status
 
