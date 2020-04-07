@@ -16,3 +16,9 @@ equipped with more experience.
 We're leaving the Sphere for later.
 
 **This picture is the source of truth. We'll update it alongside all significant changes to the schema.**
+
+### Update 2020-04-07
+
+![](./assets/db-2020-04-07.png)
+
+**Blue** columns are already in, **red** columns are going to be added soon.
